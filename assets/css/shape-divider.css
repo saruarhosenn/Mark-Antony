@@ -3,7 +3,7 @@ Bottom Shape Divider
 -------------------*/
 .custom-shape-divider-bottom-1618159713 {
 	position: absolute;
-	bottom: -2px;
+	bottom: 0;
 	left: 0;
 	width: 100%;
 	overflow: hidden;
@@ -44,7 +44,7 @@ Bottom Shape Divider Skill
 --------------------------*/
 .custom-shape-divider-bottom-1618159713-skill {
 	position: absolute;
-	bottom: -2px;
+	bottom: 0;
 	left: 0;
 	width: 100%;
 	overflow: hidden;
@@ -86,7 +86,7 @@ Top Shape Divider
 -------------------*/
 .custom-shape-divider-top-1618159665 {
 	position: absolute;
-	top: -2px;
+	top: 0;
 	left: 0;
 	width: 100%;
 	overflow: hidden;
